@@ -1,0 +1,7 @@
+polly-cli/node_modules
+polly-cli/.env
+**/*.log
+**/*.tmp
+dist/
+public/downloads/
+public/audio/
